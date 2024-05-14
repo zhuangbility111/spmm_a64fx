@@ -1,0 +1,22 @@
+# list some common ignored files and directories
+# Ignore build output
+build/
+bin/
+out/
+
+# Ignore Visual Studio Code specific files
+.vscode/
+
+# Ignore generated files
+*.o
+*.out
+out
+
+# Ignore editor backup files
+*~
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
